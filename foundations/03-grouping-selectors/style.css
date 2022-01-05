@@ -1,0 +1,14 @@
+.blk {
+  background: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.ylw {
+  background: rgb(255, 255, 0);
+}
+
+.blk,
+.ylw {
+  font-size: 28px;
+  font-family: helvetica, "Times New Roman", sans-serif;
+}
